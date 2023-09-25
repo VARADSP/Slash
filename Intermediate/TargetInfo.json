@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Slash",
+			"Path": "C:\\Users\\parli\\OneDrive\\Documents\\Unreal Projects\\Slash\\Source\\Slash.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SlashEditor",
+			"Path": "C:\\Users\\parli\\OneDrive\\Documents\\Unreal Projects\\Slash\\Source\\SlashEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
